@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Estudiando_web</string>
+    <string name="pokemon_name_hint">Pokemon Name</string>
+    <string name="add">Add</string>
+</resources>
